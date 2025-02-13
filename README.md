@@ -25,7 +25,16 @@ You can consume the output of this project with any BI tool, such as:
 - **Excel**
 - **Knime Analytics**
 
+## Screenshot
+
 ![Report Screenshot](https://raw.githubusercontent.com/diegobritom/english_live_project/main/report.png)
+
+## Video Demonstration
+
+<video width="640" height="360" controls>
+  <source src="https://raw.githubusercontent.com/diegobritom/english_live_project/main/ef_scrap_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 Simply import the resulting file into your BI tool of choice to start analyzing the data and uncover insights.
 
