@@ -38,7 +38,6 @@ Simply import the resulting file into your BI tool of choice to start analyzing 
 - Libraries:
   - **PyQt5**
   - **Selenium**
-  - **Pandas**
 
 ### How to Run
 1. Clone the repository.
