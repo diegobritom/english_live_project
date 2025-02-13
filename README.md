@@ -18,7 +18,7 @@ The goal of this project was to automate the extraction of lessons and feedback 
 - Lesson details and feedback ratings
 
 ### Data Consumption
-You can consume the output of this project with any BI tool, such as:
+The extracted data will be saved in a file named ef_data.csv, which can be used with any BI tool, such as:
 
 - **Power BI** (you can use the provided **Power BI template file** `EF Projeto.pbix` in the repository to easily consume and visualize the data)
 - **Tableau**
@@ -46,3 +46,4 @@ You can consume the output of this project with any BI tool, such as:
 2. Install the required libraries by running:
    ```bash
    pip install -r requirements.txt
+3. Or just run the file ef_scrap.exe located in the dist folder to log in and start the extraction process.
