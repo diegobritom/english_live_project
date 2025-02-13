@@ -47,3 +47,8 @@ The extracted data will be saved in a file named ef_data.csv, which can be used 
    ```bash
    pip install -r requirements.txt
 3. Or just run the file ef_scrap.exe located in the dist folder to log in and start the extraction process.
+
+
+### Important
+
+The extraction may occasionally fail due to page loading issues. Please try multiple times until you successfully extract the file
