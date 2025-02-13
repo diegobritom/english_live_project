@@ -25,13 +25,15 @@ You can consume the output of this project with any BI tool, such as:
 - **Excel**
 - **Knime Analytics**
 
+![Report Screenshot](https://raw.githubusercontent.com/diegobritom/english_live_project/main/report.png)
+
 Simply import the resulting file into your BI tool of choice to start analyzing the data and uncover insights.
 
 ### Features
 - **Automated Data Extraction:** Web scraping script to retrieve course and feedback data from English Live.
 - **Data Structuring:** Clean, structured data with Date, Title, Type, Score, and Teacher columns ready to be loaded into BI tools.
 - **Customizable:** Modify the script to adjust to any changes on the platform or to extract different data.
-- **Power BI Integration:** Use the provided **Power BI template file** (`EF Projeto.pbix`) for easy consumption and visualization of the data.
+
 
 ### Requirements
 - Python 3.x
